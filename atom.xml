@@ -6,17 +6,17 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-27T04:25:58.878Z</updated>
+  <updated>2018-10-30T15:29:10.142Z</updated>
   <id>http://yoursite.com/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://yoursite.com/post/0.html"/>
-    <id>http://yoursite.com/post/0.html</id>
-    <published>2018-10-27T03:39:53.732Z</published>
-    <updated>2018-10-27T04:25:58.878Z</updated>
+    <title>github + hexo 个人站点配置</title>
+    <link href="http://yoursite.com/post/8e45307.html"/>
+    <id>http://yoursite.com/post/8e45307.html</id>
+    <published>2018-10-30T15:13:41.000Z</published>
+    <updated>2018-10-30T15:29:10.142Z</updated>
     
     <summary type="html">
     
@@ -24,35 +24,21 @@
       
         
         
-          &lt;h1 id=&quot;Github-Hexo&quot;&gt;&lt;a href=&quot;#Github-Hexo&quot; class=&quot;headerlink&quot; title=&quot;Github + Hexo&quot;&gt;&lt;/a&gt;Github + Hexo&lt;/h1&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;搭建 Node.js
+          &lt;ol&gt;
+&lt;li&gt;搭建 Node.js 环境&lt;/li&gt;
+&lt;li&gt;搭建 Git 环境&lt;/li&gt;
+&lt;li&gt;GitHub
         
       
     
     </summary>
     
+      <category term="工具" scheme="http://yoursite.com/categories/%E5%B7%A5%E5%85%B7/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/post/4a17b156.html"/>
-    <id>http://yoursite.com/post/4a17b156.html</id>
-    <published>2018-10-26T06:55:03.202Z</published>
-    <updated>2018-10-27T04:25:58.878Z</updated>
     
-    <summary type="html">
+      <category term="github" scheme="http://yoursite.com/tags/github/"/>
     
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
-    
-    </summary>
-    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
     
   </entry>
   
@@ -307,11 +293,11 @@
   </entry>
   
   <entry>
-    <title>Cmd Markdown 简明语法手册</title>
-    <link href="http://yoursite.com/post/1db7da29.html"/>
-    <id>http://yoursite.com/post/1db7da29.html</id>
+    <title>Markdown 简明语法手册</title>
+    <link href="http://yoursite.com/post/bff83912.html"/>
+    <id>http://yoursite.com/post/bff83912.html</id>
     <published>2018-04-04T08:26:21.000Z</published>
-    <updated>2018-10-27T04:25:58.878Z</updated>
+    <updated>2018-10-30T15:24:43.858Z</updated>
     
     <summary type="html">
     
@@ -322,12 +308,10 @@
     
     </summary>
     
-      <category term="Tools" scheme="http://yoursite.com/categories/Tools/"/>
+      <category term="工具" scheme="http://yoursite.com/categories/%E5%B7%A5%E5%85%B7/"/>
     
     
       <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
-    
-      <category term="Tools" scheme="http://yoursite.com/tags/Tools/"/>
     
   </entry>
   
@@ -336,7 +320,7 @@
     <link href="http://yoursite.com/post/38393f1b.html"/>
     <id>http://yoursite.com/post/38393f1b.html</id>
     <published>2018-04-04T05:39:19.000Z</published>
-    <updated>2018-10-27T04:25:58.878Z</updated>
+    <updated>2018-10-30T15:29:25.430Z</updated>
     
     <summary type="html">
     
