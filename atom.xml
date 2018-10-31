@@ -43,11 +43,11 @@
   </entry>
   
   <entry>
-    <title>如何阅读并理解论文中的数学内容？</title>
-    <link href="http://yoursite.com/post/2714a007.html"/>
-    <id>http://yoursite.com/post/2714a007.html</id>
+    <title>如何阅读并理解计算机论文中的数学内容？</title>
+    <link href="http://yoursite.com/post/86a72012.html"/>
+    <id>http://yoursite.com/post/86a72012.html</id>
     <published>2018-04-27T15:30:33.000Z</published>
-    <updated>2018-10-27T04:25:58.882Z</updated>
+    <updated>2018-10-31T10:02:52.688Z</updated>
     
     <summary type="html">
     
@@ -56,12 +56,14 @@
     
     </summary>
     
-      <category term="Reading" scheme="http://yoursite.com/categories/Reading/"/>
+      <category term="科研" scheme="http://yoursite.com/categories/%E7%A7%91%E7%A0%94/"/>
     
     
-      <category term="Reading" scheme="http://yoursite.com/tags/Reading/"/>
+      <category term="数学" scheme="http://yoursite.com/tags/%E6%95%B0%E5%AD%A6/"/>
     
-      <category term="Paper" scheme="http://yoursite.com/tags/Paper/"/>
+      <category term="论文" scheme="http://yoursite.com/tags/%E8%AE%BA%E6%96%87/"/>
+    
+      <category term="科研" scheme="http://yoursite.com/tags/%E7%A7%91%E7%A0%94/"/>
     
   </entry>
   
@@ -70,7 +72,7 @@
     <link href="http://yoursite.com/post/fa1997a2.html"/>
     <id>http://yoursite.com/post/fa1997a2.html</id>
     <published>2018-04-27T15:17:48.000Z</published>
-    <updated>2018-10-27T04:25:58.882Z</updated>
+    <updated>2018-10-31T10:02:24.590Z</updated>
     
     <summary type="html">
     
@@ -80,10 +82,12 @@
     
     </summary>
     
-      <category term="Reading" scheme="http://yoursite.com/categories/Reading/"/>
+      <category term="笔记" scheme="http://yoursite.com/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="Reading" scheme="http://yoursite.com/tags/Reading/"/>
+      <category term="读书" scheme="http://yoursite.com/tags/%E8%AF%BB%E4%B9%A6/"/>
+    
+      <category term="读书笔记" scheme="http://yoursite.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
@@ -92,7 +96,7 @@
     <link href="http://yoursite.com/post/fb2fe74c.html"/>
     <id>http://yoursite.com/post/fb2fe74c.html</id>
     <published>2018-04-27T15:02:02.000Z</published>
-    <updated>2018-10-27T04:25:58.882Z</updated>
+    <updated>2018-10-31T09:36:49.880Z</updated>
     
     <summary type="html">
     
@@ -100,10 +104,10 @@
     
     </summary>
     
-      <category term="Reading" scheme="http://yoursite.com/categories/Reading/"/>
+      <category term="转载" scheme="http://yoursite.com/categories/%E8%BD%AC%E8%BD%BD/"/>
     
     
-      <category term="Reading" scheme="http://yoursite.com/tags/Reading/"/>
+      <category term="读书" scheme="http://yoursite.com/tags/%E8%AF%BB%E4%B9%A6/"/>
     
   </entry>
   
@@ -112,7 +116,7 @@
     <link href="http://yoursite.com/post/a39b14e0.html"/>
     <id>http://yoursite.com/post/a39b14e0.html</id>
     <published>2018-04-27T08:56:21.000Z</published>
-    <updated>2018-10-27T04:25:58.882Z</updated>
+    <updated>2018-10-31T09:36:13.196Z</updated>
     
     <summary type="html">
     
@@ -120,55 +124,56 @@
     
     </summary>
     
-      <category term="Reading" scheme="http://yoursite.com/categories/Reading/"/>
+      <category term="转载" scheme="http://yoursite.com/categories/%E8%BD%AC%E8%BD%BD/"/>
     
     
-      <category term="Reading" scheme="http://yoursite.com/tags/Reading/"/>
+      <category term="读书" scheme="http://yoursite.com/tags/%E8%AF%BB%E4%B9%A6/"/>
     
   </entry>
   
   <entry>
-    <title>李笑来《一小时建立终生受用的阅读操作系统》</title>
-    <link href="http://yoursite.com/post/c2cce043.html"/>
-    <id>http://yoursite.com/post/c2cce043.html</id>
+    <title>《一小时建立终生受用的阅读操作系统》--- 李笑来</title>
+    <link href="http://yoursite.com/post/790d0fde.html"/>
+    <id>http://yoursite.com/post/790d0fde.html</id>
     <published>2018-04-27T08:46:48.000Z</published>
-    <updated>2018-10-27T04:25:58.886Z</updated>
+    <updated>2018-10-31T09:28:45.997Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;大家好，我们现在开始。首先感谢大家的支持，这样一场12W人的讲座实在是太壮观了，我这2天跟朋友们吹牛，说这是人类史上有史以来最大的一场知识类的、收费的、在线类的知识讲座。确实一点都不夸张。&lt;br&gt;首先跟大家说清楚今天的主题：&lt;strong&gt;如何打造且不断升级我们的操作系统，我们说的是阅读操作系统。&lt;/strong&gt;大家一定要清楚我们讨论的是知识性阅读，不是娱乐性阅读，读诗歌、小说、散文虽然同样需要我们今天提到的这些技能，但我们今天的讨论聚焦在如何通过阅读获得知识进而改变生活。其次，我用了操作系统这个词，其实就是一个类比：我们可以把我们自己想象成一台电脑，至于这台电脑是古董级还是超级电脑，是靠我们自己的，或者说从一开始就是由我们自己决定的。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;一个操作系统，主要用来处理以下三个方面：&lt;br&gt;—输入（键盘、鼠标、麦克风、摄像头、扫描仪）&lt;br&gt;—处理（CPU、内存、硬盘）&lt;br&gt;—输出（显示器、打印机）&lt;br&gt;
+      &lt;p&gt;大家好，我们现在开始。首先感谢大家的支持，这样一场12W人的讲座实在是太壮观了，我这2天跟朋友们吹牛，说这是人类史上有史以来最大的一场知识类的、收费的、在线类的知识讲座。确实一点都不夸张。&lt;br&gt;首先跟大家说清楚今天的主题：&lt;strong&gt;如何打造且不断升级我们的操作系统，我们说的是阅读操作系统。&lt;/strong&gt;大家一定要清楚我们讨论的是知识性阅读，不是娱乐性阅读，读诗歌、小说、散文虽然同样需要我们今天提到的这些技能，但我们今天的讨论聚焦在如何通过阅读获得知识进而改变生活。其次，我用了操作系统这个词，其实就是一个类比：我们可以把我们自己想象成一台电脑，至于这台电脑是古董级还是超级电脑，是靠我们自己的，或者说从一开始就是由我们自己决定的。&lt;br&gt;
     
     </summary>
     
-      <category term="Reading" scheme="http://yoursite.com/categories/Reading/"/>
+      <category term="转载" scheme="http://yoursite.com/categories/%E8%BD%AC%E8%BD%BD/"/>
     
     
-      <category term="Reading" scheme="http://yoursite.com/tags/Reading/"/>
+      <category term="阅读" scheme="http://yoursite.com/tags/%E9%98%85%E8%AF%BB/"/>
+    
+      <category term="读书" scheme="http://yoursite.com/tags/%E8%AF%BB%E4%B9%A6/"/>
     
   </entry>
   
   <entry>
-    <title>李笑来《我的读书经验》</title>
-    <link href="http://yoursite.com/post/a51b6866.html"/>
-    <id>http://yoursite.com/post/a51b6866.html</id>
+    <title>《我的读书经验》--- 李笑来</title>
+    <link href="http://yoursite.com/post/5bfa28ea.html"/>
+    <id>http://yoursite.com/post/5bfa28ea.html</id>
     <published>2018-04-27T08:34:48.000Z</published>
-    <updated>2018-10-27T04:25:58.886Z</updated>
+    <updated>2018-10-31T09:28:03.441Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;附上李笑来书籍链接地址：[&lt;a href=&quot;http://www.zhibimo.com/explore/books][1]&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://www.zhibimo.com/explore/books][1]&lt;/a&gt;&lt;br&gt;李笑来的电子书都是免费的，希望能对别人有所帮助.&lt;/p&gt;
-&lt;h4 id=&quot;1-我的读书路径与境界更新&quot;&gt;&lt;a href=&quot;#1-我的读书路径与境界更新&quot; class=&quot;headerlink&quot; title=&quot;1.我的读书路径与境界更新&quot;&gt;&lt;/a&gt;&lt;strong&gt;1.我的读书路径与境界更新&lt;/strong&gt;&lt;/h4&gt;&lt;p&gt;读书这件事在最初的时候很难做到目标明确，而且，一上来就目标明确的话，很可能会造成另外一个严重后果，即：失去获得意外好运的机会。所以，在第一个阶段里，我觉得甚至直接就应该漫无目的的读书，能读多少就读多少，能读到什么就读什么。不用挑，因为挑书也是一种逐步积累的能力。回顾我的读书经历，大约在28岁之前，我读书是非常杂的，连那时候男生都不屑于读的言情小说我都可以读的津津有味，现在回头看，这种饥不择食有很大的好处，随便罗列也起码有这么3个：&lt;/p&gt;
+      &lt;h4 id=&quot;1-我的读书路径与境界更新&quot;&gt;&lt;a href=&quot;#1-我的读书路径与境界更新&quot; class=&quot;headerlink&quot; title=&quot;1.我的读书路径与境界更新&quot;&gt;&lt;/a&gt;&lt;strong&gt;1.我的读书路径与境界更新&lt;/strong&gt;&lt;/h4&gt;&lt;p&gt;读书这件事在最初的时候很难做到目标明确，而且，一上来就目标明确的话，很可能会造成另外一个严重后果，即：失去获得意外好运的机会。所以，在第一个阶段里，我觉得甚至直接就应该漫无目的的读书，能读多少就读多少，能读到什么就读什么。不用挑，因为挑书也是一种逐步积累的能力。回顾我的读书经历，大约在28岁之前，我读书是非常杂的，连那时候男生都不屑于读的言情小说我都可以读的津津有味，现在回头看，这种饥不择食有很大的好处，随便罗列也起码有这么3个：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;1.阅读变成了吃饭一样的需求，不读脑子就饿……&lt;br&gt;2.经常有各种意外的好运，从莫名其妙的地方读到了原本可能不可能获得的知识。&lt;br&gt;3.一不小心就积累了足够的里程——你要知道，驾驶经验远比驾驶技巧重要得多&lt;br&gt;
     
     </summary>
     
-      <category term="Reading" scheme="http://yoursite.com/categories/Reading/"/>
+      <category term="转载" scheme="http://yoursite.com/categories/%E8%BD%AC%E8%BD%BD/"/>
     
     
-      <category term="Reading" scheme="http://yoursite.com/tags/Reading/"/>
+      <category term="阅读" scheme="http://yoursite.com/tags/%E9%98%85%E8%AF%BB/"/>
+    
+      <category term="读书" scheme="http://yoursite.com/tags/%E8%AF%BB%E4%B9%A6/"/>
     
   </entry>
   
@@ -177,7 +182,7 @@
     <link href="http://yoursite.com/post/1d95ef6.html"/>
     <id>http://yoursite.com/post/1d95ef6.html</id>
     <published>2018-04-22T05:30:14.000Z</published>
-    <updated>2018-10-27T04:25:58.882Z</updated>
+    <updated>2018-10-31T09:35:10.177Z</updated>
     
     <summary type="html">
     
@@ -185,21 +190,23 @@
     
     </summary>
     
-      <category term="Method" scheme="http://yoursite.com/categories/Method/"/>
+      <category term="笔记" scheme="http://yoursite.com/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="study" scheme="http://yoursite.com/tags/study/"/>
+      <category term="读书" scheme="http://yoursite.com/tags/%E8%AF%BB%E4%B9%A6/"/>
     
-      <category term="methods" scheme="http://yoursite.com/tags/methods/"/>
+      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="方法" scheme="http://yoursite.com/tags/%E6%96%B9%E6%B3%95/"/>
     
   </entry>
   
   <entry>
-    <title>[转载]台湾清华大学教授彭明辉：理想与现实</title>
-    <link href="http://yoursite.com/post/d2641cc6.html"/>
-    <id>http://yoursite.com/post/d2641cc6.html</id>
+    <title>《理想与现实》--- 彭明辉</title>
+    <link href="http://yoursite.com/post/d5c819b5.html"/>
+    <id>http://yoursite.com/post/d5c819b5.html</id>
     <published>2018-04-06T03:20:14.000Z</published>
-    <updated>2018-10-27T04:25:58.886Z</updated>
+    <updated>2018-10-31T09:31:42.477Z</updated>
     
     <summary type="html">
     
@@ -208,19 +215,23 @@
     
     </summary>
     
-      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
+      <category term="转载" scheme="http://yoursite.com/categories/%E8%BD%AC%E8%BD%BD/"/>
     
+    
+      <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
     
       <category term="理想" scheme="http://yoursite.com/tags/%E7%90%86%E6%83%B3/"/>
+    
+      <category term="现实" scheme="http://yoursite.com/tags/%E7%8E%B0%E5%AE%9E/"/>
     
   </entry>
   
   <entry>
-    <title>[转载]新竹清华大学彭明辉教授： 生命是一种长期而持续的累积过程</title>
-    <link href="http://yoursite.com/post/e6332a2d.html"/>
-    <id>http://yoursite.com/post/e6332a2d.html</id>
+    <title>《生命是一种长期而持续的累积过程》--- 彭明辉</title>
+    <link href="http://yoursite.com/post/887d1009.html"/>
+    <id>http://yoursite.com/post/887d1009.html</id>
     <published>2018-04-06T03:19:22.000Z</published>
-    <updated>2018-10-27T04:25:58.886Z</updated>
+    <updated>2018-10-31T09:33:17.801Z</updated>
     
     <summary type="html">
     
@@ -228,10 +239,16 @@
     
     </summary>
     
-      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
+      <category term="转载" scheme="http://yoursite.com/categories/%E8%BD%AC%E8%BD%BD/"/>
     
     
-      <category term="Life" scheme="http://yoursite.com/tags/Life/"/>
+      <category term="奋斗" scheme="http://yoursite.com/tags/%E5%A5%8B%E6%96%97/"/>
+    
+      <category term="生命" scheme="http://yoursite.com/tags/%E7%94%9F%E5%91%BD/"/>
+    
+      <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="人生感悟" scheme="http://yoursite.com/tags/%E4%BA%BA%E7%94%9F%E6%84%9F%E6%82%9F/"/>
     
   </entry>
   
@@ -240,78 +257,26 @@
     <link href="http://yoursite.com/post/ece00e2c.html"/>
     <id>http://yoursite.com/post/ece00e2c.html</id>
     <published>2018-04-06T03:18:29.000Z</published>
-    <updated>2018-10-27T04:25:58.882Z</updated>
+    <updated>2018-10-31T09:00:59.334Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;strong&gt;主题&lt;/strong&gt;：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;打造属于个人的阅读操作系统，通过阅读获得知识进而改变生活&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;操作系统的组成&lt;/strong&gt;：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;输入、处理、输出&lt;br&gt;
+      &lt;h5 id=&quot;主题&quot;&gt;&lt;a href=&quot;#主题&quot; class=&quot;headerlink&quot; title=&quot;主题&quot;&gt;&lt;/a&gt;主题&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;打造属于个人的阅读操作系统，通过阅读获得知识进而改变生活&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&quot;操作系统的组成&quot;&gt;&lt;a href=&quot;#操作系统的组成&quot; class=&quot;headerlink&quot; title=&quot;操作系统的组成&quot;&gt;&lt;/a&gt;操作系统的组成&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;输入&lt;/li&gt;
+&lt;li&gt;处理&lt;/li&gt;
+&lt;li&gt;输出
     
     </summary>
     
-      <category term="Reading" scheme="http://yoursite.com/categories/Reading/"/>
+      <category term="笔记" scheme="http://yoursite.com/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="Reading" scheme="http://yoursite.com/tags/Reading/"/>
+      <category term="阅读" scheme="http://yoursite.com/tags/%E9%98%85%E8%AF%BB/"/>
     
-  </entry>
-  
-  <entry>
-    <title>CS论文查找网址</title>
-    <link href="http://yoursite.com/post/e3dd5a65.html"/>
-    <id>http://yoursite.com/post/e3dd5a65.html</id>
-    <published>2018-04-04T08:37:36.000Z</published>
-    <updated>2018-10-27T04:25:58.878Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;hr&gt;
-&lt;p&gt;以下两个链接可以找到与计算机相关的大部分论文，而且可以查看并下载全文&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.semanticscholar.org/&quot; target=&quot;_blank&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="工具" scheme="http://yoursite.com/categories/%E5%B7%A5%E5%85%B7/"/>
-    
-    
-      <category term="CS" scheme="http://yoursite.com/tags/CS/"/>
-    
-      <category term="paper" scheme="http://yoursite.com/tags/paper/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Markdown 简明语法手册</title>
-    <link href="http://yoursite.com/post/bff83912.html"/>
-    <id>http://yoursite.com/post/bff83912.html</id>
-    <published>2018-04-04T08:26:21.000Z</published>
-    <updated>2018-10-30T15:24:43.858Z</updated>
-    
-    <summary type="html">
-    
-      &lt;hr&gt;
-&lt;h3 id=&quot;1-斜体和粗体&quot;&gt;&lt;a href=&quot;#1-斜体和粗体&quot; class=&quot;headerlink&quot; title=&quot;1. 斜体和粗体&quot;&gt;&lt;/a&gt;1. 斜体和粗体&lt;/h3&gt;&lt;p&gt;使用 * 和 ** 表示斜体和粗体。&lt;/p&gt;
-&lt;p&gt;示例：&lt;/p&gt;
-&lt;p&gt;这是 &lt;em&gt;斜体&lt;/em&gt;，这是 &lt;strong&gt;粗体&lt;/strong&gt;。&lt;br&gt;
-    
-    </summary>
-    
-      <category term="工具" scheme="http://yoursite.com/categories/%E5%B7%A5%E5%85%B7/"/>
-    
-    
-      <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
+      <category term="读书" scheme="http://yoursite.com/tags/%E8%AF%BB%E4%B9%A6/"/>
     
   </entry>
   
@@ -320,7 +285,7 @@
     <link href="http://yoursite.com/post/38393f1b.html"/>
     <id>http://yoursite.com/post/38393f1b.html</id>
     <published>2018-04-04T05:39:19.000Z</published>
-    <updated>2018-10-30T15:29:25.430Z</updated>
+    <updated>2018-10-31T09:04:31.357Z</updated>
     
     <summary type="html">
     
@@ -335,12 +300,14 @@
     
     </summary>
     
-      <category term="Tools" scheme="http://yoursite.com/categories/Tools/"/>
+      <category term="工具" scheme="http://yoursite.com/categories/%E5%B7%A5%E5%85%B7/"/>
     
     
       <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
     
-      <category term="Tools" scheme="http://yoursite.com/tags/Tools/"/>
+      <category term="写作工具" scheme="http://yoursite.com/tags/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7/"/>
+    
+      <category term="文字排版工具" scheme="http://yoursite.com/tags/%E6%96%87%E5%AD%97%E6%8E%92%E7%89%88%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
