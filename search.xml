@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[对计算机科研狗有用的一些资源]]></title>
+    <url>%2Fpost%2F50696f80.html</url>
+    <content type="text"><![CDATA[科研论文以下给出的链接，基本上能找到大部分所需要的论文，而且提供全文，有的也提供配套代码。 https://www.semanticscholar.org/http://www.paperweekly.site/http://www.gitxiv.com/https://paperswithcode.com/ 综合社区网下面给出的几个综合社区网址，基本上收录了大部分的资源，比如说微信公众号的好文，论文，教程，电子书，基本上能解决广大狗友们的资源需求。 http://www.zhuanzhi.ai/http://www.hankcs.com/http://www.mooc.ai/bbs 写作下面给出的链接，在进行学术论文写作的时候可以作为参考，至于里面是什么内容，留给朋友们探索 http://www.phrasebank.manchester.ac.uk/http://linggle.com/ 还有很多有用的其他资源，鄙人会不定期进行更新，如有需要可以进行关注。]]></content>
+      <categories>
+        <category>资源</category>
+      </categories>
+      <tags>
+        <tag>科研</tag>
+        <tag>计算机</tag>
+        <tag>资源</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[github + hexo 个人站点配置]]></title>
     <url>%2Fpost%2F8e45307.html</url>
-    <content type="text"><![CDATA[搭建 Node.js 环境 搭建 Git 环境 GitHub 注册和配置 注意建立库的时候一定要勾选初始化操作，不然后面无法通过github.io访问页面 安装配置 Hexo _config.yml配置文件中的deploy一定要有空格，不然无法更新（不会报错，但是gtihub库一直不更新） 关联 Hexo 与 GitHub Pages GitHub Pages 地址解析到个人域名 Hexo 的常用操作（四个） hexo clean hexo g hexo s hexo d 结束语 参考文献 http://www.php.cn/div-tutorial-368139.html]]></content>
+    <content type="text"><![CDATA[搭建 Node.js 环境 搭建 Git 环境 GitHub 注册和配置 注意：建立库的时候一定要勾选初始化操作，不然后面无法通过github.io访问页面 安装配置 Hexo 注意：_config.yml配置文件中的deploy一定要有空格，不然无法更新（不会报错，但是gtihub库一直不更新） 关联 Hexo 与 GitHub Pages GitHub Pages 地址解析到个人域名 Hexo 的常用操作（四个） hexo cleanhexo ghexo shexo d 参考文献 http://www.php.cn/div-tutorial-368139.html http://shenzekun.cn/hexo%E7%9A%84next%E4%B8%BB%E9%A2%98%E4%B8%AA%E6%80%A7%E5%8C%96%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B.html https://www.jianshu.com/p/f054333ac9e6 https://blog.csdn.net/Rainy_X/article/details/79828724]]></content>
       <categories>
         <category>工具</category>
       </categories>
