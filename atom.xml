@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-11-03T12:45:00.700Z</updated>
+  <updated>2018-11-03T12:47:47.556Z</updated>
   <id>http://yoursite.com/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
@@ -16,13 +16,14 @@
     <link href="http://yoursite.com/post/50696f80.html"/>
     <id>http://yoursite.com/post/50696f80.html</id>
     <published>2018-11-01T16:00:00.000Z</published>
-    <updated>2018-11-03T12:45:00.700Z</updated>
+    <updated>2018-11-03T12:47:47.556Z</updated>
     
     <summary type="html">
     
-      &lt;h4 id=&quot;科研论文&quot;&gt;&lt;a href=&quot;#科研论文&quot; class=&quot;headerlink&quot; title=&quot;科研论文&quot;&gt;&lt;/a&gt;科研论文&lt;/h4&gt;&lt;p&gt;以下给出的链接，基本上能找到大部分所需要的论文，而且提供全文，有的也提供配套代码。&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;images/pc.jpg&quot; alt=&quot;PC&quot;&gt;&lt;/p&gt;
+&lt;h4 id=&quot;科研论文&quot;&gt;&lt;a href=&quot;#科研论文&quot; class=&quot;headerlink&quot; title=&quot;科研论文&quot;&gt;&lt;/a&gt;科研论文&lt;/h4&gt;&lt;p&gt;以下给出的链接，基本上能找到大部分所需要的论文，而且提供全文，有的也提供配套代码。&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.semanticscholar.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.semanticscholar.org/&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.paperweekly.site/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://www.paperweekly.site/&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.gitxiv.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://www.gitxiv.com/&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://paperswithcode.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://paperswithcode.com/&lt;/a&gt;&lt;br&gt;&lt;img src=&quot;images/pc.jpg&quot; alt=&quot;PC&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.semanticscholar.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.semanticscholar.org/&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.paperweekly.site/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://www.paperweekly.site/&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.gitxiv.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://www.gitxiv.com/&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://paperswithcode.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://paperswithcode.com/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
     
     </summary>
@@ -55,11 +56,11 @@
       <category term="科研" scheme="http://yoursite.com/categories/%E7%A7%91%E7%A0%94/"/>
     
     
-      <category term="科研" scheme="http://yoursite.com/tags/%E7%A7%91%E7%A0%94/"/>
-    
       <category term="数学" scheme="http://yoursite.com/tags/%E6%95%B0%E5%AD%A6/"/>
     
       <category term="论文" scheme="http://yoursite.com/tags/%E8%AE%BA%E6%96%87/"/>
+    
+      <category term="科研" scheme="http://yoursite.com/tags/%E7%A7%91%E7%A0%94/"/>
     
   </entry>
   
