@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[信息检索]]></title>
+    <url>%2Fpost%2Fd3ee0f4f.html</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>信息</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[对计算机科研狗有用的一些资源]]></title>
     <url>%2Fpost%2F50696f80.html</url>
     <content type="text"><![CDATA[科研论文以下给出的链接，基本上能找到大部分所需要的论文，而且提供全文，有的也提供配套代码。 https://www.semanticscholar.org/http://www.paperweekly.site/http://www.gitxiv.com/https://paperswithcode.com/ 综合社区网下面给出的几个综合社区网址，基本上收录了大部分的资源，比如说微信公众号的好文，论文，教程，电子书，基本上能解决广大狗友们的资源需求。 http://www.zhuanzhi.ai/http://www.hankcs.com/http://www.mooc.ai/bbshttp://www.cxyschool.com/index.html 写作下面给出的链接，在进行学术论文写作的时候可以作为参考，至于里面是什么内容，留给朋友们探索 http://www.phrasebank.manchester.ac.uk/http://linggle.com/ 还有很多有用的其他资源，鄙人会不定期进行更新，如有需要可以进行关注。]]></content>
@@ -21,9 +32,9 @@
         <category>科研</category>
       </categories>
       <tags>
+        <tag>科研</tag>
         <tag>数学</tag>
         <tag>论文</tag>
-        <tag>科研</tag>
       </tags>
   </entry>
   <entry>
