@@ -6,10 +6,37 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-11-12T01:19:15.835Z</updated>
+  <updated>2018-11-25T04:02:39.096Z</updated>
   <id>http://yoursite.com/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>与计算机的点点滴滴</title>
+    <link href="http://yoursite.com/post/fd8831e0.html"/>
+    <id>http://yoursite.com/post/fd8831e0.html</id>
+    <published>2018-11-24T16:00:00.000Z</published>
+    <updated>2018-11-25T04:02:39.096Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在正式表达自己看法之前，先聊一下写下这些文字的初衷。&lt;/p&gt;
+&lt;p&gt;非计算机专业学生看计算机专业人士就是感觉高大上，然而本专业的学生看自己觉得嗤之以鼻。我曾和同学探讨过一些疑惑，其中有过一些答案，但都是零零碎碎的，而且当我刚刚对于一些问题有深入认识的时候，还来不及实践行动，
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>信息检索</title>
@@ -82,11 +109,11 @@
       <category term="科研" scheme="http://yoursite.com/categories/%E7%A7%91%E7%A0%94/"/>
     
     
-      <category term="科研" scheme="http://yoursite.com/tags/%E7%A7%91%E7%A0%94/"/>
-    
       <category term="数学" scheme="http://yoursite.com/tags/%E6%95%B0%E5%AD%A6/"/>
     
       <category term="论文" scheme="http://yoursite.com/tags/%E8%AE%BA%E6%96%87/"/>
+    
+      <category term="科研" scheme="http://yoursite.com/tags/%E7%A7%91%E7%A0%94/"/>
     
   </entry>
   
